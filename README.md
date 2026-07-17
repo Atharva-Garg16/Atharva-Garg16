@@ -15,18 +15,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Garg16&show_icons=true&theme=radical" alt="Atharva's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Garg16&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+
 
 ## 🚀 About Me
-- 🎓 **Education:** Pursuing a Bachelor of Technology in Computer Science (2024-2028) from Acropolis Institute of Technology and Research, Indore (Current CGPA: 7.97).[cite: 1]
-- 🎯 **Strengths:** Punctual and a curious learner.[cite: 1]
-- 🎥 **Hobbies:** Video Creation on YouTube, Cycling.[cite: 1]
-- 🗣️ **Languages:** English, Hindi.[cite: 1]
+- 🎓 **Education:** Pursuing a Bachelor of Technology in Computer Science (2024-2028) from Acropolis Institute of Technology and Research, Indore (Current CGPA: 7.97).
+- 🎯 **Strengths:** Punctual and a curious learner.
+- 🎥 **Hobbies:** Video Creation on YouTube, Cycling.
+- 🗣️ **Languages:** English, Hindi.
 
-## 💻 Tech Stack[cite: 1]
+## 💻 Tech Stack
 
 **Programming Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -48,23 +45,23 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-## 🛠️ Projects[cite: 1]
+## 🛠️ Projects
 
 ### 🛒 Myntra Clone
 - **Role:** Frontend Developer
 - **Description:** Engineered a responsive, high-fidelity e-commerce interface to solve UI fragmentation issues.[cite: 1] Designed an optimized DOM structure using HTML5, CSS3, and JavaScript, reducing rendering latency and improving frontend state management.[cite: 1]
 
-### 🧮 Calculator App[cite: 1]
+### 🧮 Calculator App
 - **Role:** Frontend Developer
 - **Description:** Developed a robust, logic-driven calculation engine Implemented a decoupled architecture ensuring seamless data flow between UI interactions and back-end math operations, achieving 100% computational accuracy.
 
-## 🏆 Achievements & Accolades[cite: 1]
+## 🏆 Achievements & Accolades
 - 🧩 **LeetCode:** Solved 180+ Problems.[https://leetcode.com/u/AtharvaGarg/]
 - 🏅 **Consistency:** Achieved the 100 days problem-solving badge on LeetCode (2026).
 - 💻 **Hackathons:** Smart India Hackathon (SIH) 2025 College Level Selection.
 - ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) **HackerRank:** Certificates in Java (Basics), Python (Basics), and Problem Solving (Basics).[https://www.hackerrank.com/profile/atharvagarg06]
 
-## 📜 Certifications[cite: 1]
+## 📜 Certifications
 - ☁️ Oracle Cloud Infrastructure Certified Foundations Associate[https://catalog-education.oracle.com/pls/certview/sharebadge?id=D39EFC98D53EE0DE20487F20DB4265866771ACF7A83E972B86381382FD3223A4]
 - 🤖 Agentic AI Certified Foundations Associate, Oracle[https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E439302C6705F75A04C684BD3A5B66EE4FAB0DA01E3CF30FD1277D91E28D695]
 - 🐍 The Joy of Computing using Python, NPTEL[https://nptel.ac.in/noc/E_Certificate/NPTEL26CS84S45640065304405556]

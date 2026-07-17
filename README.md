@@ -50,21 +50,21 @@
 
 ## 🛠️ Projects[cite: 1]
 
-### 🛒 Myntra Clone[cite: 1]
-- **Role:** Frontend Developer[cite: 1]
+### 🛒 Myntra Clone
+- **Role:** Frontend Developer
 - **Description:** Engineered a responsive, high-fidelity e-commerce interface to solve UI fragmentation issues.[cite: 1] Designed an optimized DOM structure using HTML5, CSS3, and JavaScript, reducing rendering latency and improving frontend state management.[cite: 1]
 
 ### 🧮 Calculator App[cite: 1]
-- **Role:** Frontend Developer[cite: 1]
-- **Description:** Developed a robust, logic-driven calculation engine.[cite: 1] Implemented a decoupled architecture ensuring seamless data flow between UI interactions and back-end math operations, achieving 100% computational accuracy.[cite: 1]
+- **Role:** Frontend Developer
+- **Description:** Developed a robust, logic-driven calculation engine Implemented a decoupled architecture ensuring seamless data flow between UI interactions and back-end math operations, achieving 100% computational accuracy.
 
 ## 🏆 Achievements & Accolades[cite: 1]
-- 🧩 **LeetCode:** Solved 180+ Problems.[cite: 1]
-- 🏅 **Consistency:** Achieved the 100 days problem-solving badge on LeetCode (2026).[cite: 1]
-- 💻 **Hackathons:** Smart India Hackathon (SIH) 2025 College Level Selection.[cite: 1]
-- ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) **HackerRank:** Certificates in Java (Basics), Python (Basics), and Problem Solving (Basics).[cite: 1]
+- 🧩 **LeetCode:** Solved 180+ Problems.[https://leetcode.com/u/AtharvaGarg/]
+- 🏅 **Consistency:** Achieved the 100 days problem-solving badge on LeetCode (2026).
+- 💻 **Hackathons:** Smart India Hackathon (SIH) 2025 College Level Selection.
+- ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) **HackerRank:** Certificates in Java (Basics), Python (Basics), and Problem Solving (Basics).[https://www.hackerrank.com/profile/atharvagarg06]
 
 ## 📜 Certifications[cite: 1]
-- ☁️ Oracle Cloud Infrastructure Certified Foundations Associate[cite: 1]
-- 🤖 Agentic AI Certified Foundations Associate, Oracle[cite: 1]
-- 🐍 The Joy of Computing using Python, NPTEL[cite: 1]
+- ☁️ Oracle Cloud Infrastructure Certified Foundations Associate[https://catalog-education.oracle.com/pls/certview/sharebadge?id=D39EFC98D53EE0DE20487F20DB4265866771ACF7A83E972B86381382FD3223A4]
+- 🤖 Agentic AI Certified Foundations Associate, Oracle[https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E439302C6705F75A04C684BD3A5B66EE4FAB0DA01E3CF30FD1277D91E28D695]
+- 🐍 The Joy of Computing using Python, NPTEL[https://nptel.ac.in/noc/E_Certificate/NPTEL26CS84S45640065304405556]

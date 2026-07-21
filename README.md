@@ -1,7 +1,7 @@
 # Hi there, I'm Atharva Garg 👋
 
 <div align="left">
-  <a href="https://linkedin.com/in/atharva-garg/" target="_blank">
+  <a href="https://linkedin.com/in/atharva-garg/in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:atharvagarg1610@gmail.com">
@@ -11,19 +11,16 @@
 
 <br/>
 
-> 💡 Enthusiastic software developer with a strong foundation in engineering concepts. I enjoy building practical solutions, learning continuously, and growing as an IT professional.
+> 💡 Enthusiastic software developer with a strong foundation in engineering concepts. I am seeking to contribute innovative solutions in IT, emphasizing continuous skill development for professional growth.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Garg16&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Garg16&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
+
 
 ## 🚀 About Me
 - 🎓 **Education:** Pursuing a Bachelor of Technology in Computer Science (2024-2028) from Acropolis Institute of Technology and Research, Indore (Current CGPA: 7.97).
-- 🎯 **Strengths:** Punctual, curious, and eager to learn.
-- 🎥 **Hobbies:** Video creation on YouTube, cycling.
+- 🎯 **Strengths:** Punctual and a curious learner.
+- 🎥 **Hobbies:** Video Creation on YouTube, Cycling.
 - 🗣️ **Languages:** English, Hindi.
 
 ## 💻 Tech Stack
@@ -53,20 +50,20 @@
 ### 🛒 Myntra Clone
 - **Live Demo:** [Open Myntra Clone](https://atharva-garg16.github.io/Myntra-clone-1/)
 - **Role:** Frontend Developer
-- **Description:** Built a responsive, high-fidelity e-commerce interface using HTML5, CSS3, and JavaScript. Focused on clean layout structure, improved responsiveness, and a polished user experience.
+- **Description:** Engineered a responsive, high-fidelity e-commerce interface to solve UI fragmentation issues. Designed an optimized DOM structure using HTML5, CSS3, and JavaScript, reducing rendering latency and improving frontend state management.
 
 ### 🧮 Calculator App
 - **Live Demo:** [Open Calculator](https://atharva-garg16.github.io/Calculator/)
 - **Role:** Frontend Developer
-- **Description:** Developed a logic-driven calculator app with a decoupled architecture for smooth interaction between the UI and core math operations.
+- **Description:** Developed a robust, logic-driven calculation engine Implemented a decoupled architecture ensuring seamless data flow between UI interactions and back-end math operations, achieving 100% computational accuracy.
 
 ## 🏆 Achievements & Accolades
-- 🧩 **LeetCode:** Solved 180+ problems. [View profile](https://leetcode.com/u/AtharvaGarg/)
+- 🧩 **LeetCode:** Solved 180+ Problems.[https://leetcode.com/u/AtharvaGarg/]
 - 🏅 **Consistency:** Achieved the 100 days problem-solving badge on LeetCode (2026).
 - 💻 **Hackathons:** Smart India Hackathon (SIH) 2025 College Level Selection.
-- 🛠️ **HackerRank:** Certificates in Java (Basics), Python (Basics), and Problem Solving.
+- ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white) **HackerRank:** Certificates in Java (Basics), Python (Basics), and Problem Solving (Basics).[https://www.hackerrank.com/profile/atharvagarg06]
 
 ## 📜 Certifications
-- ☁️ **Oracle Cloud Infrastructure Certified Foundations Associate:** [View certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D39EFC98D53EE0DE20487F20DB4265866771ACF3A44A56117F005083D8C8D02)
-- 🤖 **Agentic AI Certified Foundations Associate, Oracle:** [View certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E439302C6705F75A04C684BD3A5B66EE4FAB0DA01E3CF30F79370101AE19872)
-- 🐍 **The Joy of Computing using Python, NPTEL:** [View certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL26CS84S45640065304405556)
+- ☁️ Oracle Cloud Infrastructure Certified Foundations Associate[https://catalog-education.oracle.com/pls/certview/sharebadge?id=D39EFC98D53EE0DE20487F20DB4265866771ACF3A44A56117F005083D8C8D02]
+- 🤖 Agentic AI Certified Foundations Associate, Oracle[https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E439302C6705F75A04C684BD3A5B66EE4FAB0DA01E3CF30F79370101AE19872]
+- 🐍 The Joy of Computing using Python, NPTEL[https://nptel.ac.in/noc/E_Certificate/NPTEL26CS84S45640065304405556]

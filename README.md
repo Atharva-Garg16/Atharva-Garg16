@@ -16,8 +16,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Garg16&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Garg16&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Garg16&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Garg16&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🚀 About Me
@@ -51,12 +51,10 @@
 ## 🛠️ Projects
 
 ### 🛒 Myntra Clone
-- **Live Demo:** [Open Myntra Clone](https://atharva-garg16.github.io/Myntra-clone-1/)
 - **Role:** Frontend Developer
 - **Description:** Built a responsive, high-fidelity e-commerce interface using HTML5, CSS3, and JavaScript. Focused on clean layout structure, improved responsiveness, and a polished user experience.
 
 ### 🧮 Calculator App
-- **Live Demo:** [Open Calculator](https://atharva-garg16.github.io/Calculator/)
 - **Role:** Frontend Developer
 - **Description:** Developed a logic-driven calculator app with a decoupled architecture for smooth interaction between the UI and core math operations.
 
@@ -67,6 +65,6 @@
 - 🛠️ **HackerRank:** Certificates in Java (Basics), Python (Basics), and Problem Solving.
 
 ## 📜 Certifications
-- ☁️ **Oracle Cloud Infrastructure Certified Foundations Associate:** [View certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D39EFC98D53EE0DE20487F20DB4265866771ACF3A44A56117F005083D8C8D02)
-- 🤖 **Agentic AI Certified Foundations Associate, Oracle:** [View certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E439302C6705F75A04C684BD3A5B66EE4FAB0DA01E3CF30F79370101AE19872)
+- ☁️ **Oracle Cloud Infrastructure Certified Foundations Associate:** [View certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D39EFC98D53EE0DE20487F20DB4265866771ACF7A83E972B86381382FD3223A4)
+- 🤖 **Agentic AI Certified Foundations Associate, Oracle:** [View certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E439302C6705F75A04C684BD3A5B66EE4FAB0DA01E3CF30FD1277D91E28D695)
 - 🐍 **The Joy of Computing using Python, NPTEL:** [View certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL26CS84S45640065304405556)

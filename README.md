@@ -11,7 +11,7 @@
 
 <br/>
 
-> 💡 Enthusiastic software developer with a strong foundation in engineering concepts.[cite: 1] I am seeking to contribute innovative solutions in IT, emphasizing continuous skill development for professional growth.[cite: 1]
+> 💡 Enthusiastic software developer with a strong foundation in engineering concepts. I am seeking to contribute innovative solutions in IT, emphasizing continuous skill development for professional growth.
 
 ## 📊 GitHub Stats
 
@@ -49,7 +49,7 @@
 
 ### 🛒 Myntra Clone
 - **Role:** Frontend Developer
-- **Description:** Engineered a responsive, high-fidelity e-commerce interface to solve UI fragmentation issues.[cite: 1] Designed an optimized DOM structure using HTML5, CSS3, and JavaScript, reducing rendering latency and improving frontend state management.[cite: 1]
+- **Description:** Engineered a responsive, high-fidelity e-commerce interface to solve UI fragmentation issues. Designed an optimized DOM structure using HTML5, CSS3, and JavaScript, reducing rendering latency and improving frontend state management.
 
 ### 🧮 Calculator App
 - **Role:** Frontend Developer

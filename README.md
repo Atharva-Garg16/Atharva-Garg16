@@ -13,13 +13,6 @@
 
 > 💡 Enthusiastic software developer with a strong foundation in engineering concepts. I enjoy building practical solutions, learning continuously, and growing as an IT professional.
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-Garg16&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-Garg16&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
 ## 🚀 About Me
 - 🎓 **Education:** Pursuing a Bachelor of Technology in Computer Science (2024-2028) from Acropolis Institute of Technology and Research, Indore (Current CGPA: 7.97).
 - 🎯 **Strengths:** Punctual, curious, and eager to learn.

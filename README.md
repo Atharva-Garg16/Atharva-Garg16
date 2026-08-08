@@ -90,3 +90,11 @@ AI Tools:
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Garg16&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+<p align="center">
+<i> Learning. Improving.  Growing. Exploring. 🔥</i>
+  <br>
+<b> Feel free to connect <b>
+</p>

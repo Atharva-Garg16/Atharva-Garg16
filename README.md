@@ -43,7 +43,6 @@ Tools & IDEs:
 AI Tools:
 - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-(Consider adding a 1-line summary under each badge group, or convert this into a compact table if the list grows.)
 
 ---
 

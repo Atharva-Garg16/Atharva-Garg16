@@ -52,13 +52,15 @@ AI Tools:
 - Role: Frontend Developer  
 - Tech: HTML5, CSS3, JavaScript  
 - Highlights: Responsive design, high-fidelity UI, product listing and filtering UI  
-- Link: (https://atharva-garg16.github.io/Myntra-clone-1/) 
+- Link: [Myntra Clone — Demo](https://atharva-garg16.github.io/Myntra-clone-1/)
+- Repo: [github.com/Atharva-Garg16/Myntra-clone-1](https://github.com/Atharva-Garg16/Myntra-clone-1)
 
 ### Calculator App
 - Role: Frontend Developer  
 - Tech: JavaScript (logic separated from UI), HTML/CSS  
 - Highlights: Decoupled architecture — UI and core operations separated for testability  
-- Link: (https://atharva-garg16.github.io/Calculator/)
+- Link: [Calculator-Demo](https://atharva-garg16.github.io/Calculator/)
+- Repo: [github.com/Atharva-Garg16/Calculator](https://github.com/Atharva-Garg16/calculator)
 
 ---
 
@@ -102,5 +104,5 @@ AI Tools:
 <p align="center">
 <i>🔥 Exploring Learning Improving  Growing 🔥</i>
   <br>
-<b>✨ Let's Grow Together 🫱🏻‍🫲🏻 <b>
+<b>✨ Let's Grow Together 🫱🏻‍🫲🏻 </b>
 </p>

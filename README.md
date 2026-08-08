@@ -1,63 +1,89 @@
 # Hi there, I'm Atharva Garg 👋
 
-<div align="left">
-  <a href="https://linkedin.com/in/atharva-garg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:atharvagarg1610@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+**Software developer • Student (B.Tech CSE)**  
+Building practical web projects and learning full-stack engineering.
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-garg/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvagarg1610@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Atharva-Garg16?style=social)](https://github.com/Atharva-Garg16)
 
-> 💡 Enthusiastic software developer with a strong foundation in engineering concepts. I enjoy building practical solutions, learning continuously, and growing as an IT professional.
+---
 
-## 🚀 About Me
-- 🎓 **Education:** Pursuing a Bachelor of Technology in Computer Science (2024-2028) from Acropolis Institute of Technology and Research, Indore (Current CGPA: 7.97).
-- 🎯 **Strengths:** Punctual, curious, and eager to learn.
-- 🎥 **Hobbies:** Video creation on YouTube, cycling.
-- 🗣️ **Languages:** English, Hindi.
+## Table of Contents
+- [About](#about)
+- [Tech Stack](#tech-stack)
+- [Projects](#projects)
+- [Achievements](#achievements)
+- [Certifications](#certifications)
+- [Contact](#contact)
 
-## 💻 Tech Stack
+---
 
-**Programming Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## About
+Enthusiastic software developer and current B.Tech (CSE) student at Acropolis Institute of Technology and Research (2024–2028). I enjoy building practical solutions, learning continuously.
 
-**Web Technologies**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🎓 Education: B.Tech in Computer Science (2024–2028) — CGPA: 7.97
+- 🎯 Strengths: Punctual, curious, and eager to learn
+- 🎥 Hobbies: reading, coding, cycling
+- 🗣️ Languages: English, Hindi
 
-**Tools & IDEs**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+---
 
-**AI Tools**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+## Tech Stack
 
-## 🛠️ Projects
+Programming languages:
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🛒 Myntra Clone
-- **Role:** Frontend Developer
-- **Description:** Built a responsive, high-fidelity e-commerce interface using HTML5, CSS3, and JavaScript. Focused on clean layout structure, improved responsiveness, and a polished user experience.
+Web:
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧮 Calculator App
-- **Role:** Frontend Developer
-- **Description:** Developed a logic-driven calculator app with a decoupled architecture for smooth interaction between the UI and core math operations.
+Tools & IDEs:
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🏆 Achievements & Accolades
-- 🧩 **LeetCode:** Solved 180+ problems. [View profile](https://leetcode.com/u/AtharvaGarg/)
-- 🏅 **Consistency:** Achieved the 100 days problem-solving badge on LeetCode (2026).
-- 💻 **Hackathons:** Smart India Hackathon (SIH) 2025 College Level Selection.
-- 🛠️ **HackerRank:** Certificates in Java (Basics), Python (Basics), and Problem Solving.
+AI Tools:
+- ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 📜 Certifications
-- ☁️ **Oracle Cloud Infrastructure Certified Foundations Associate:** [View certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D39EFC98D53EE0DE20487F20DB4265866771ACF7A83E972B86381382FD3223A4)
-- 🤖 **Agentic AI Certified Foundations Associate, Oracle:** [View certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E439302C6705F75A04C684BD3A5B66EE4FAB0DA01E3CF30FD1277D91E28D695)
-- 🐍 **The Joy of Computing using Python, NPTEL:** [View certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL26CS84S45640065304405556)
+(Consider adding a 1-line summary under each badge group, or convert this into a compact table if the list grows.)
+
+---
+
+## Projects
+
+### Myntra Clone
+- Role: Frontend Developer  
+- Tech: HTML5, CSS3, JavaScript  
+- Highlights: Responsive design, high-fidelity UI, product listing and filtering UI  
+- Link: (https://atharva-garg16.github.io/Myntra-clone-1/) 
+
+### Calculator App
+- Role: Frontend Developer  
+- Tech: JavaScript (logic separated from UI), HTML/CSS  
+- Highlights: Decoupled architecture — UI and core operations separated for testability  
+- Link: (https://atharva-garg16.github.io/Calculator/)
+
+---
+
+## Achievements
+- LeetCode: 200+ problems — [Profile](https://leetcode.com/u/AtharvaGarg/)  
+- 100 days problem-solving badge on LeetCode (2026)  
+- Smart India Hackathon (SIH) 2025 — College Level Selection  
+- HackerRank: Certificates in Java (Basics), Python (Basics), and Problem Solving
+- Top 2% in The Joy of Computing using Python (NPTEL)
+
+---
+
+## Certifications
+- Oracle Cloud Infrastructure Certified Foundations Associate — ([credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D39EFC98D53EE0DE20487F20DB4265866771ACF7A83E972B86381382FD3223A4))  
+- Agentic AI Certified Foundations Associate, Oracle — ([credential]https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E439302C6705F75A04C684BD3A5B66EE4FAB0DA01E3CF30FD1277D91E28D695)  
+- The Joy of Computing using Python (NPTEL) — ([view certificate] https://nptel.ac.in/noc/E_Certificate/NPTEL26CS84S45640065304405556)
+
+
+
+---
+
+## Contact
+- Email: atharvagarg1610@gmail.com  
+- LinkedIn: https://linkedin.com/in/atharva-garg/  
+- GitHub: https://github.com/Atharva-Garg16
+
+---

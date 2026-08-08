@@ -32,13 +32,13 @@ Enthusiastic software developer and current B.Tech (CSE) student at Acropolis In
 ## Tech Stack
 
 Programming languages:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=[...]
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Web:
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 Tools & IDEs:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-[...]
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 AI Tools:
 - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -74,8 +74,8 @@ AI Tools:
 ---
 
 ## Certifications
-- Oracle Cloud Infrastructure Certified Foundations Associate — ([credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D39EFC98D53EE0DE20487F20DB4265866771ACF7A83E972B8638[...]
-- Agentic AI Certified Foundations Associate, Oracle — ([credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E439302C6705F75A04C684BD3A5B66EE4FAB0DA01E3CF30FD1277D91E28[...]
+- Oracle Cloud Infrastructure Certified Foundations Associate — ([credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D39EFC98D53EE0DE20487F20DB4265866771ACF7A83E972B86381382FD3223A4))  
+- Agentic AI Certified Foundations Associate, Oracle — ([credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E439302C6705F75A04C684BD3A5B66EE4FAB0DA01E3CF30FD1277D91E28D695))
 - The Joy of Computing using Python (NPTEL) — ([view certificate](https://nptel.ac.in/noc/E_Certificate/NPTEL26CS84S45640065304405556))
 
 
@@ -86,7 +86,6 @@ AI Tools:
 - Email: atharvagarg1610@gmail.com  
 - LinkedIn: https://linkedin.com/in/atharva-garg/  
 - GitHub: https://github.com/Atharva-Garg16
-
 - Open to internships, collaborations, and project opportunities — reach me at [Email](mailto:atharvagarg1610@gmail.com) or [LinkedIn](https://linkedin.com/in/atharva-garg/).
 
 ---

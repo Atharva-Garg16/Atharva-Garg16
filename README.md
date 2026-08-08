@@ -94,7 +94,7 @@ AI Tools:
 ---
 
 <p align="center">
-<i> Learning. Improving.  Growing. Exploring. 🔥</i>
+<i>🔥 Exploring Learning Improving  Growing 🔥</i>
   <br>
-<b> Feel free to connect <b>
+<b>✨ Let's Grow Together 🫱🏻‍🫲🏻 <b>
 </p>

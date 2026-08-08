@@ -86,3 +86,7 @@ AI Tools:
 - GitHub: https://github.com/Atharva-Garg16
 
 ---
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Garg16&theme=tokyonight&hide_border=true" />
+</p>

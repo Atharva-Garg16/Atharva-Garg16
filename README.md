@@ -86,6 +86,12 @@ AI Tools:
 - GitHub: https://github.com/Atharva-Garg16
 
 ---
+## 📊 Leetcode Stats
+<p>
+  <img src="https://leetcard.jacoblin.cool/AtharvaGarg16?theme=dark&ext=activity" alt="LeetCode Stats" />
+</p> 
+
+---
 ## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-Garg16&theme=tokyonight&hide_border=true" />

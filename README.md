@@ -22,7 +22,7 @@ Building practical web projects and learning full-stack engineering.
 ## About
 Enthusiastic software developer and current B.Tech (CSE) student at Acropolis Institute of Technology and Research (2024–2028). I enjoy building practical solutions, learning continuously.
 
-- 🎓 Education: B.Tech in Computer Science (2024–2028) — CGPA: 7.97
+- 🎓 Education: B.Tech in Computer Science (2024–2028) — CGPA: 7.97 (Current)
 - 🎯 Strengths: Punctual, curious, and eager to learn
 - 🎥 Hobbies: reading, coding, cycling
 - 🗣️ Languages: English, Hindi

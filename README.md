@@ -65,8 +65,8 @@ AI Tools:
 ---
 
 ## Achievements
-- LeetCode: 200+ problems — [Profile](https://leetcode.com/u/AtharvaGarg/)  
-- 100 days problem-solving badge on LeetCode (2026)  
+- LeetCode: 230+ problems — [Profile](https://leetcode.com/u/AtharvaGarg/)  
+- 200 days problem-solving badge on LeetCode (2026)  
 - Smart India Hackathon (SIH) 2025 — College Level Selection  
 - HackerRank: Certificates in Java (Basics), Python (Basics), and Problem Solving
 - Top 2% in The Joy of Computing using Python (NPTEL)

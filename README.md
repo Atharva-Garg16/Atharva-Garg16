@@ -83,10 +83,10 @@ AI Tools:
 ---
 
 ## Contact
-- Email: atharvagarg1610@gmail.com  
-- LinkedIn: https://linkedin.com/in/atharva-garg/  
-- GitHub: https://github.com/Atharva-Garg16
-- Open to internships, collaborations, and project opportunities — reach me at [Email](mailto:atharvagarg1610@gmail.com) or [LinkedIn](https://linkedin.com/in/atharva-garg/).
+- 📧 Email: atharvagarg1610@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/atharva-garg/  
+- 💻 GitHub: https://github.com/Atharva-Garg16
+- 🫱🏻‍🫲🏻Open to internships, collaborations, and project opportunities — reach me at [Email](mailto:atharvagarg1610@gmail.com) or [LinkedIn](https://linkedin.com/in/atharva-garg/).
 
 ---
 ## 📊 Leetcode Stats

@@ -92,7 +92,7 @@ AI Tools:
 ## 📊 Leetcode Stats
 <p>
    <img src="https://leetcode-badge-showcase.vercel.app/api?username=AtharvaGarg16&theme=black" alt="LeetCode Badges" height="300"/>
-  <img src="https://leetcard.jacoblin.cool/AtharvaGarg16?theme=dark&ext=activity" alt="LeetCode Stats" height="230" />
+  <img src="https://leetcard.jacoblin.cool/AtharvaGarg16?theme=dark&ext=activity" alt="LeetCode Stats" height="221" />
 
 </p> 
 

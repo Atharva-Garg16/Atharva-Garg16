@@ -101,7 +101,7 @@ AI Tools:
 <p>
  
   <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Atharva-Garg16&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="180"/>
+  
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva-Garg16&layout=compact&theme=dark&hide_border=true" height="180"/>
 </p>
 
